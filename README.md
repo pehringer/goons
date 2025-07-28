@@ -1,2 +1,6 @@
-# packllama
-Equips Ollama models with factual grounding tools.
+```
+
+(\___/)  (\___/)  (\___/)  (\___/)  (\___/)
+(  g  )  (  o  )  (  o  )  (  n  )  (  s  )
+( ___ )  ( ___ )  ( ___ )  ( ___ )  ( ___ )
+```
