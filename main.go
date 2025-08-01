@@ -14,7 +14,7 @@ func main() {
 	session, err := llm.Server(&ollama.Server{
 		URL:    "http://localhost:11434",
 		Client: http.Client{},
-	}).Chat("llama3.2:1b")
+	}).Chat("llama3.1:8b")
 	if err != nil {
 		fmt.Printf("Ollama error: %v", err)
 		return
